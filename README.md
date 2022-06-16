@@ -1,13 +1,25 @@
 # Multi-Programming
 
-Multi-Programming repo contains programs in different languages
+Multi-Programming repo contains programs in different languages <br>
+This repository is to understand how open-source work and to get a different programs in different languages at a same place. This is good place to start your journey to open-source and build your github profile. Before contributing check [CONTRIBUTING](CONTRIBUTING.md).
+
+**Here you will learn**
+* Contribute to Open-Source
+* [Fork the repo](https://github.com/malivinayak/Multi-Programming/fork)
+* About [Issues](https://github.com/malivinayak/Multi-Programming/issues)
+  * How to [create issue](https://github.com/malivinayak/Multi-Programming/issues/new)
+  * How to self-assign issue 
+  * What is [labels](https://github.com/malivinayak/Multi-Programming/labels) in issues
+  * How to give labels
+* How to create Pull Requests
+  
 
 # Index
 - [Multi-Programming](#multi-programming)
 - [Index](#index)
   - [Program List](#program-list)
   - [How to Contribute](#how-to-contribute)
-  - [License](#License)
+  - [License](#license)
 
 ## Program List
 
