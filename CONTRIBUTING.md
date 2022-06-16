@@ -5,7 +5,7 @@
 * Maintain the structure 
   - Program_List
     - Program_Name
-      - Source_Code: Contains Program same as folder name in different languages
+      - src: Contains Program same as folder name in different languages
       - README.md: Programming Language name with its hyperlink
 * Update the both main README.md as well as respective folder README.md
 * Try to add comments in your code so that it is more understandable.
