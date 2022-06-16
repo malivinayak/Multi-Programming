@@ -1,8 +1,9 @@
-<p style="text-align:center; margin-top:20px;margin-bottom:20px;font-size:40px;">Multi-Programming</p>
+# Multi-Programming
 
 Multi-Programming repo contains programs in different languages
 
 # Index
+- [Multi-Programming](#multi-programming)
 - [Index](#index)
   - [Program List](#program-list)
   - [How to Contribute](#how-to-contribute)
@@ -16,4 +17,4 @@ Multi-Programming repo contains programs in different languages
 <br>
 
 ---
-<p style="text-align:center; margin-top:50px;">👨‍💻 Happy Coding👨‍💻</p>
+👨‍💻 Happy Coding👨‍💻
