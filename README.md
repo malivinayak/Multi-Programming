@@ -7,7 +7,7 @@ Multi-Programming repo contains programs in different languages
     - [Program List](#program-list)
     - [How to Contribute](#how-to-contribute)
 
-### Program List
+## Program List
 * [Hello_Multi_Programming](Program_List/Hello_Multi-Programming/)
 
-### How to Contribute
+## How to Contribute
