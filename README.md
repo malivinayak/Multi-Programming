@@ -7,6 +7,7 @@ Multi-Programming repo contains programs in different languages
 - [Index](#index)
   - [Program List](#program-list)
   - [How to Contribute](#how-to-contribute)
+  - [license](#license)
 
 ## Program List
 
@@ -31,6 +32,10 @@ Multi-Programming repo contains programs in different languages
 ` git push origin <your branch name>`<br/>
 
 * Make a pull request!
+
+## license
+**MIT LICENSE** Copyright (c) 2022 Vinayak Mali
+[Click Here To Check License](LICENSE)
 
 <br>
 
