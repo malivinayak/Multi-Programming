@@ -1,6 +1,5 @@
 ## Rules
 * Do not <b>spam!</b>
-* Check your code before submitting PR.
 * Refer Hello_Multi_Programming to understand the structure.
 * Maintain the structure 
   - Program_List
