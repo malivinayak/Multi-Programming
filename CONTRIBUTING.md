@@ -3,7 +3,7 @@
 * Refer Hello_Multi_Programming to understand the structure.
 * Maintain the structure as follows
 >  <details>
->  <summary>Program_Category</summary>
+>  <summary>Program_Category [This is a main folder]</summary>
 >  
 >    <details>
 >    <summary> 1. Program_Category_Name</summary>
