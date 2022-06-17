@@ -23,8 +23,15 @@ This repository is to understand how open-source work and to get a different pro
 
 ## Program List
 
-* [Hello_Multi_Programming](Program_List/Hello_Multi-Programming/)
+  <details>
+  <summary>Hello_Multi_Programming</summary>
+  
+  > 1. [Hello_Multi_Programming](Program_List/Hello_Multi-Programming/)
+  > 2. [src](Program_List/Hello_Multi-Programming/src)
+  > 3. [README.md](Program_List/Hello_Multi-Programming/README.md)
+</details>
 
+<br><hr>
 ## How to Contribute 
 
 * Go through the [**CONTRIBUTING.md**](CONTRIBUTING.md) 
