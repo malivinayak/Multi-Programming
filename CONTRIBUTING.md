@@ -14,9 +14,19 @@
 >   >  >> **src** : Contains Program same as folder name in different languages <br> 
 >   >  >> **README.md** : Problem Statement, Solution in different Programming Language with its hyperlink
 >   >  > </details>
->   >  > 2. README.md : Program Name List of respective category
+>   >  > <details>
+>   >  >  <summary>2. README.md </summary>
+>   >  > 
+>   >  >> Program Name List of respective category
+>   >  >  
+>   >  >  </details>
 >   >  </details>
->   >  2. README.md : Program List of category
+>   >  <details>
+>   >  <summary>2. README.md </summary>
+>   >
+>   >  > Category List
+>   >
+>   >  </details>
 >  </details>
 > 
   <hr>
