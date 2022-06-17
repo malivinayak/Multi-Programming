@@ -26,8 +26,8 @@ This repository is to understand how open-source work and to get a different pro
   <details>
   <summary>Fundamentals</summary>
   
-  > * [Fundamentals](Program_List/01_Fundamentals/)
-  > * [README.md](Program_List/01_Fundamentals/README.md)
+  > * [Fundamentals](Program_Category/01_Fundamentals/)
+  > * [README.md](Program_Category/01_Fundamentals/README.md)
 </details>
 
 <br><hr>

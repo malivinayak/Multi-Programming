@@ -2,10 +2,12 @@
 * Do not <b>spam!</b>
 * Refer Hello_Multi_Programming to understand the structure.
 * Maintain the structure 
-  - Program_List
-    - Program_Name
-      - src: Contains Program same as folder name in different languages
-      - README.md: Programming Language name with its hyperlink
+  - Program_Category
+    - Program_Category_Name
+      - Program_Name
+        - src: Contains Program same as folder name in different languages
+        - README.md: Problem Statement, Solution in different Programming Language with its hyperlink
+    - README.md: Program List of respective category
 * Update the both main README.md as well as respective folder README.md
 * Try to add comments in your code so that it is more understandable.
 * Try to intend your code so that it is more readable.
