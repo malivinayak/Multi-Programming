@@ -5,17 +5,18 @@
 >  <details>
 >  <summary>Program_Category [This is a main folder]</summary>
 >  
->    <details>
->    <summary> 1. Program_Category_Name</summary>
->    
->    <details>
->    <summary> Program_Name</summary>
->    
->    > **src** : Contains Program same as folder name in different languages <br> 
->    > **README.md** : Problem Statement, Solution in different Programming Language with its hyperlink
->    </details>
->    </details>
->    2. README.md : Program List of respective category
+>   > <details>
+>   >  <summary> 1. Program_Category_Name</summary>
+>   >  
+>   >  > <details>
+>   >  > <summary> 1. Program_Name</summary>
+>   >  > 
+>   >  >> **src** : Contains Program same as folder name in different languages <br> 
+>   >  >> **README.md** : Problem Statement, Solution in different Programming Language with its hyperlink
+>   >  > </details>
+>   >  > 2. README.md : Program Name List of respective category
+>   >  </details>
+>   >  2. README.md : Program List of category
 >  </details>
 > 
   <hr>
