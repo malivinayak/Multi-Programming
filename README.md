@@ -17,18 +17,17 @@ This repository is to understand how open-source work and to get a different pro
 # Index
 - [Multi-Programming](#multi-programming)
 - [Index](#index)
-  - [Program List](#program-list)
+  - [Program Category](#program-category)
   - [How to Contribute](#how-to-contribute)
   - [License](#license)
 
-## Program List
+## Program Category
 
   <details>
-  <summary>Hello_Multi_Programming</summary>
+  <summary>Fundamentals</summary>
   
-  > 1. [Hello_Multi_Programming](Program_List/Hello_Multi-Programming/)
-  > 2. [src](Program_List/Hello_Multi-Programming/src)
-  > 3. [README.md](Program_List/Hello_Multi-Programming/README.md)
+  > * [Fundamentals](Program_List/01_Fundamentals/)
+  > * [README.md](Program_List/01_Fundamentals/README.md)
 </details>
 
 <br><hr>
