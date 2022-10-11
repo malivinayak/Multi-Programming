@@ -59,5 +59,9 @@ This repository is to understand how open-source work and to get a different pro
 
 <br>
 
----
-👨‍💻 Happy Coding👨‍💻
+
+<div align="center">
+
+### Show some ❤️ by starring the repositories!
+
+</div>
