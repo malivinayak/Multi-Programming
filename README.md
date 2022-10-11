@@ -44,12 +44,13 @@ This repository is to understand how open-source work and to get a different pro
 	```git clone https://github.com/malivinayak/Multi-Programming.git```
 
 * How to **Commit and push** your code to the remote repo on your Github.<br/>
-` git checkout -b <branch name>`<br/>
-` git add .`<br/>
-` git commit -m "your message"`<br/>
-` git remote add origin <HTTP code the forked repo>`<br/>
-` git push origin <your branch name>`<br/>
-
+```
+ git checkout -b <branch name>
+ git add .
+ git commit -m "your message"
+ git remote add origin <HTTP code the forked repo>
+ git push origin <your branch name>
+```
 * Make a pull request!
 
 ## License
