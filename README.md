@@ -30,6 +30,13 @@ This repository is to understand how open-source work and to get a different pro
   > * [Fundamentals](Program_Category/01_Fundamentals/)
   > * [README.md](Program_Category/01_Fundamentals/README.md)
   </details>
+  
+  <details>
+  <summary> Algorithm </summary>
+
+  > * [Algorithm](./Program_Category/03%20Algorithm/)
+  >> * [Sorting Algorithms](./Program_Category/03%20Algorithm/Sorting%20Algorithms/)
+  </details>
 
 <br><hr>
 
