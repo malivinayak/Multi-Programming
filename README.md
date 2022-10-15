@@ -41,6 +41,10 @@ This repository is to understand how open-source work and to get a different pro
 -   Fork the repo to your Github.<br/>
 -   Follow the Rules [Click Here](CONTRIBUTING.md)
 
+-   You can add programs and algorithms in any programming language.<br>
+-   Do not copy paste codes write your own code.<br>
+-   Also explain your algorithm and write its time and space complexity.<br>
+
 -   How to Clone the Repo by going to your local Git Client and pushing this command: <br/>
     `git clone https://github.com/malivinayak/Multi-Programming.git`
 
