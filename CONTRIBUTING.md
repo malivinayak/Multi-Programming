@@ -1,5 +1,6 @@
 ## Rules
 * Do not <b>spam!</b>
+* Do not copy paste codes write your own code.<br>
 * Refer Hello_Multi_Programming to understand the structure.
 * Maintain the structure as follows
 >  <details>
