@@ -1,0 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
+name:  Greetings
+
+# Controls when the workflow will run
+on: [pull_request, issues]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: bartick/custom-interactions@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          Thank you for opening this issue in our repository, I have just notified to @Vinayak Sir, he will get in touch with you soon regarding this issue.
+        pr-message: |
+          Thank you for opening your pull request in our repository, 
+          I have just notified to @Vinayak Sir,
+          Be sure to follow all of hacktoberfest's guidelines for accepting PRs
+        pr-once: false
+        issue-once: false
+        pr-number: 10
+        issue-number: 10
