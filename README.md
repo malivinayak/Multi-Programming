@@ -37,8 +37,8 @@ This repository is to understand how open-source work and to get a different pro
   > * [Algorithm](./Program_Category/03%20Algorithm/)
   >> * [Sorting Algorithms](./Program_Category/03%20Algorithm/Sorting%20Algorithms/)
   </details>
-
-<br><hr>
+  
+<hr>
 
 ## How to Contribute
 
@@ -49,7 +49,7 @@ This repository is to understand how open-source work and to get a different pro
 -   Follow the Rules [Click Here](CONTRIBUTING.md)
 
 -   You can add programs and algorithms in any programming language.<br>
--   Also explain your algorithm and write its time and space complexity.<br>
+-   Explain your algorithm and write its time complexity and space complexity.<br>
 
 -   How to Clone the Repo by going to your local Git Client and pushing this command: <br/>
     `git clone https://github.com/malivinayak/Multi-Programming.git`
