@@ -17,10 +17,11 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: |
-          Thank you for opening this issue in our repository, I have just notified to @Vinayak Sir, he will get in touch with you soon regarding this issue.
+          Thank you for opening this issue in our repository, 
+          I have just notified to Vinayak Sir, he will get in touch with you soon regarding this issue.
         pr-message: |
           Thank you for opening your pull request in our repository, 
-          I have just notified to @Vinayak Sir,
+          I have just notified to Vinayak Sir,
           Be sure to follow all of hacktoberfest's guidelines for accepting PRs
         pr-once: false
         issue-once: false
