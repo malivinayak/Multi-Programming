@@ -9,3 +9,4 @@
 - 2. [Graph](#)
   - 1. [Dinic Graph](./Graphs%20Algorithms/Dinic%20Graph/)
   - 2. [Dijkstra Graph](./Graphs%20Algorithms/Dijkstra%20Graph/)
+  - 3. [BFS](./Graphs%20Algorithms/BFS/)
