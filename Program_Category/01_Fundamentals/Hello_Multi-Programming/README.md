@@ -27,3 +27,4 @@ In this example, you will learn to print "Hello, World!" on the screen in follow
 21. [Ruby](src/hello_Multi_Programming.rb)
 22. [Swift](src/hello_Multi_Programming.Swift)
 23. [Verilog](src/hello_Multi_Programming.sv)
+24. [Assembly](src/hello_Multi_Programming.s)
