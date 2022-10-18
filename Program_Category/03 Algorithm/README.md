@@ -11,3 +11,4 @@
   - 2. [Dijkstra Graph](./Graphs%20Algorithms/Dijkstra%20Graph/)
 - 3. [Searching](#)
   - 1. [Binary Search](./Searching%20Algorithms/Binary%20Search/)
+  - 2. [Linear Search](./Searching%20Algorithms/Linear%20Search/)
