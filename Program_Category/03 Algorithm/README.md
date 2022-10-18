@@ -1,12 +1,14 @@
 # Algorithms
 
-- 1. [Sorting](#)
+- 1. [Sorting](./Sorting%20Algorithms)
   - 1. [Bubble Sort](./Sorting%20Algorithms/Bubble%20Sort)
   - 2. [Selection Sort](./Sorting%20Algorithms/Selection%20Sort/)
   - 3. [Count Sort](./Sorting%20Algorithms/Count%20Sort/)
   - 4. [Topological Sort](./Sorting%20Algorithms/Topological%20Sort/)
   - 5. [Heap Sort](./Sorting%20Algorithms/Heap%20Sort/)
-- 2. [Graph](#)
+- 2. [Graph](./Graphs%20Algorithms)
   - 1. [Dinic Graph](./Graphs%20Algorithms/Dinic%20Graph/)
   - 2. [Dijkstra Graph](./Graphs%20Algorithms/Dijkstra%20Graph/)
   - 3. [BFS](./Graphs%20Algorithms/BFS/)
+- 3. [Searching](./Searching%20Algorithms)
+  - 1. [Binary Search](./Searching%20Algorithms/Binary%20Search/)
