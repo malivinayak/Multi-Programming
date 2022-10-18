@@ -2,4 +2,5 @@
 2. [Selection Sort](./Selection%20Sort/)
 3. [Count Sort](./Count%20Sort/)
 4. [Radial Sort](./Radial%20Sort/)
-5. [Topological Sort](./RTopological%20Sort/)
+5. [Topological Sort](./Topological%20Sort/)
+6. [Heap Sort](./Heap%20Sort/)
