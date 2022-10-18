@@ -30,14 +30,15 @@
 >   >  </details>
 >  </details>
 > 
+
+
+* Update the both main README.md as well as respective folder README.md <br>
+* Try to add comments in your code so that it is more understandable. <br>
+* Try to intend your code so that it is more readable.<br>
+* Make sure that your code is **genuine and working** before submitting PR.<br>
+
   <hr>
   
-
-* Update the both main README.md as well as respective folder README.md
-* Try to add comments in your code so that it is more understandable.
-* Try to intend your code so that it is more readable.
-* Make sure that your code is **genuine and working** before submitting PR.
-
 ## Instructions
 1. Drop a ⭐ on the Github repo.
 2. Fork this repo.
