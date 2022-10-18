@@ -13,3 +13,4 @@
   - 4. [DFS](./Graphs%20Algorithms/DFS/)
 - 3. [Searching](./Searching%20Algorithms)
   - 1. [Binary Search](./Searching%20Algorithms/Binary%20Search/)
+  - 2. [Linear Search](./Searching%20Algorithms/Linear%20Search/)
