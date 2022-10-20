@@ -7,7 +7,7 @@
   - 4. [Topological Sort](./Sorting%20Algorithms/Topological%20Sort/)
   - 5. [Heap Sort](./Sorting%20Algorithms/Heap%20Sort/)
   - 6. [Insertion Sort](./Sorting%20Algorithms/Insertion%20Sort/)
-  
+  - 7. [Merge Sort](./Sorting%20Algorithms/Merge%20Sort/)
 - 2. [Graph](./Graphs%20Algorithms)
   - 1. [Dinic Graph](./Graphs%20Algorithms/Dinic%20Graph/)
   - 2. [Dijkstra Graph](./Graphs%20Algorithms/Dijkstra%20Graph/)

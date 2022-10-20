@@ -5,3 +5,4 @@
 5. [Topological Sort](./Topological%20Sort/)
 6. [Heap Sort](./Heap%20Sort/)
 7. [Insertion Sort](./Insertion%20Sort/)
+8. [Merge Sort](./Merge%20Sort/)
