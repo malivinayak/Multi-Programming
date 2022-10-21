@@ -18,3 +18,4 @@
 - 3. [Searching](./Searching%20Algorithms)
   - 1. [Binary Search](./Searching%20Algorithms/Binary%20Search/)
   - 2. [Linear Search](./Searching%20Algorithms/Linear%20Search/)
+  - 3. [Jump Search](./Searching%20Algorithms/Jump%20Search/)
