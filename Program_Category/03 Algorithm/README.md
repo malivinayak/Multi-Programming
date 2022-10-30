@@ -22,3 +22,4 @@
   - 1. [Binary Search](./Searching%20Algorithms/Binary%20Search/)
   - 2. [Linear Search](./Searching%20Algorithms/Linear%20Search/)
   - 3. [Jump Search](./Searching%20Algorithms/Jump%20Search/)
+  - 4. [UBS](./Searching%20Algorithms/Ubiquitous%20Binary%20Search)
